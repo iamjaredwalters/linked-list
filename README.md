@@ -1,2 +1,2 @@
-# Linked Lists
+# Linked List
 > TODO: Add some detail
